@@ -1,7 +1,7 @@
 # dwl-bar
 dwm-like bar for dwl
 
-I believe dwl-bar provides a more dwm-like experience out of the box than other bars like somebar.
+big man light believes dwl-bar provides a more dwm-like experience out of the box than other bars like somebar.
 
 ## Dependencies
 I'm not sure what the package names will be for your distrobution, so just make sure these are generally what you have.
